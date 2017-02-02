@@ -35,6 +35,8 @@ The minimum viable product for this will have the essential components of: A dat
 * Users can filter between regular and NSFW (not safe for work) jokes
 * User profiles report their total number of jokes, punchlines and votes
 * Advanced ranking system based upon whatever metrics we think are valuable. Such as: Relevance, Timelessness, Delivery
+* Gamification through badges and points
+* Bounties and contests based around topics... like the Pope
 
 ### Advancing the Architecture
 * Launch from a codepipeline to an EC2 server or ECS Fleet
