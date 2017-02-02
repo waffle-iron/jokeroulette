@@ -12,9 +12,9 @@ For instance, they may receive this prompt:
 
  The basic concept of Joke Roulette has **Three Main Components**
 
- #### 1. Submitting a punchline
- #### 2. Submitting a Joke
- #### 3. Voting on Combinations
+1. **Submitting a punchline**
+2. **Submitting a Joke**
+3. **Something else**
 
  ## Basic Architecture
 The minimum viable product for this will have the essential components of: A data storage system, a web server and a client application
