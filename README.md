@@ -16,7 +16,7 @@ For instance, they may receive this prompt:
 2. **Submitting a Joke**
 3. **Something else**
 
- ## Basic Architecture
+## Basic Architecture
 The minimum viable product for this will have the essential components of: A data storage system, a web server and a client application
 
 ### General Use Case
