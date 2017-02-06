@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/danielc2013/jokeroulette.png?label=ready&title=Ready)](https://waffle.io/danielc2013/jokeroulette)
 # Joke Roulette
 Fun little application designed to encourage cooperative development within our team
 
